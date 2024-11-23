@@ -6,6 +6,8 @@ Essa foi minha primera vez usando HTML
 <br>
 ===================================================================================================
 Imagens usadas
-![image](https://github.com/user-attachments/assets/7f19ee1d-e994-4d9a-af3c-e9190a2d765e)
+
+![image](https://github.com/user-attachments/assets/47c0d5c3-7550-4159-ab3b-860aa8d0b58d)
+
 <br>
 ===================================================================================================
